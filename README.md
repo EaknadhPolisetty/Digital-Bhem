@@ -1,5 +1,7 @@
 ###  **Calculator**
 
+![calculator jpg](https://github.com/EaknadhPolisetty/Digital-Bhem/assets/153793143/9fc3d9da-9667-4bb8-abf3-cb661807c81c)
+
 **Context**
 Creating an HTML calculator involves integrating HTML for structure, CSS for styling, and JavaScript for functionality. It typically includes an input display for showing numbers and results, along with buttons for digits, operators, and functions like clear or backspace.
 
