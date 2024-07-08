@@ -1,6 +1,6 @@
 ###  **Calculator**
 
-![WhatsApp Image 2024-07-08 at 13 08 09_59dca577](https://github.com/EaknadhPolisetty/Digital-Bhem/assets/153793143/578bc493-3a52-434e-a815-b7e1553a7b22)
+:///C:/Users/srep4/OneDrive/Desktop/calculator.html
 
 **Context**
 Creating an HTML calculator involves integrating HTML for structure, CSS for styling, and JavaScript for functionality. It typically includes an input display for showing numbers and results, along with buttons for digits, operators, and functions like clear or backspace.
