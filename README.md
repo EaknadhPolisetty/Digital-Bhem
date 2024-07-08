@@ -1,7 +1,5 @@
 ###  **Calculator**
 
-:///C:/Users/srep4/OneDrive/Desktop/calculator.html
-
 **Context**
 Creating an HTML calculator involves integrating HTML for structure, CSS for styling, and JavaScript for functionality. It typically includes an input display for showing numbers and results, along with buttons for digits, operators, and functions like clear or backspace.
 
